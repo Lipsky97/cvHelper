@@ -6,4 +6,4 @@ Executabtle file can be found in dist folder.
 
 The file that is worth viewing the most is window_controller.py
 
-Watch the presentation at oskarlipienski.com
+Watch the presentation at https://oskarlipienski.netlify.app
